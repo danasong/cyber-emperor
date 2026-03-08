@@ -1,51 +1,24 @@
-# Cyber Emperor Skill
+# Cyber Emperor / 赛博皇帝
 
 A practical OpenClaw skill for orchestrating complex work with a "Three Departments and Six Ministries" multi-agent model.
 
-## What this repository contains
+一个面向 OpenClaw 的实战型 skill，用“三省六部”式多 Agent 协作框架来编排复杂任务。
 
-- `skills/cyber-emperor/SKILL.md` — the main skill definition
-- `skills/cyber-emperor/README.md` — a short companion overview
+## Documents / 文档
 
-## Core idea
+- English: [README.en.md](./README.en.md)
+- 中文： [README.zh-CN.md](./README.zh-CN.md)
+- Skill definition / 技能定义： [skills/cyber-emperor/SKILL.md](./skills/cyber-emperor/SKILL.md)
 
-`cyber-emperor` is not just “spawn more agents”. It is a governance/orchestration layer for complex tasks:
+## Highlights / 特点
 
-- **Zhongshu Sheng** — planning and task decomposition
-- **Menxia Sheng** — review, correction, and delivery judgment
-- **Shangshu Sheng** — dispatch, aggregation, and closeout
-- **Six Ministries** — role assignment, scope control, standards, execution, validation, and delivery
+- Governance-first multi-agent orchestration / 先治理、后并行的多 Agent 编排
+- Works with `sessions_spawn`, `shadow-clone`, and `claude-code-hook`
+- Practical templates, delivery rules, and execution boundaries
+- 适合中大型任务、跨模块协作、复杂编码与统一验收
 
-It is designed to work together with:
+## Publishing Rule / 发布铁律
 
-- `sessions_spawn` for actual subagent dispatch
-- `shadow-clone` for parallel execution structure
-- `claude-code-hook` for zero-polling complex coding work
+This public repository must not contain any secrets, tokens, passwords, private keys, cookies, or other credentials.
 
-## When to use
-
-Use it for:
-
-- medium/large project work
-- multi-module changes
-- multi-stage delivery
-- tasks that require planning, implementation, testing, and documentation
-
-Avoid it for:
-
-- tiny edits
-- pure Q&A
-- tasks that are faster to do directly than to orchestrate
-
-## Repository structure
-
-```text
-skills/
-  cyber-emperor/
-    SKILL.md
-    README.md
-```
-
-## Publishing notes
-
-This repository is intended as a standalone GitHub home for the Cyber Emperor skill, with documentation suitable for reuse and future expansion.
+本公开仓库不得包含任何密钥、令牌、密码、私钥、Cookie 或其他凭据。
