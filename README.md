@@ -238,8 +238,15 @@ That is why it feels larger, sharper, and more project-ready than ordinary multi
 - `README.md` — bilingual landing page / 中英双语入口
 - `README.zh-CN.md` — Chinese overview / 中文豪华说明
 - `README.en.md` — English overview / 英文说明
+- `LICENSE.md` — Custom Non-Commercial License / 自定义非商业许可
 - `skills/cyber-emperor/SKILL.md` — main skill definition / 技能主文档
 - `skills/cyber-emperor/README.md` — short companion overview / skill 辅助说明
+
+## License / 许可说明
+
+This repository is released under a **Custom Non-Commercial License**. You may view, study, copy, and modify the contents for personal, educational, research, and other non-commercial purposes. **Commercial use, commercial distribution, and use in paid products or services require prior written authorization.** See [LICENSE.md](./LICENSE.md).
+
+本仓库采用 **Custom Non-Commercial License（自定义非商业许可）**。你可以出于个人、学习、研究及其他非商业目的查看、学习、复制与修改本仓库内容。**任何商业使用、商业分发，以及在收费产品或服务中的使用，均须事先取得书面授权。** 详见 [LICENSE.md](./LICENSE.md)。
 
 ---
 

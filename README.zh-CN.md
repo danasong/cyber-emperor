@@ -257,6 +257,7 @@
 - `README.md`：中英双语入口
 - `README.zh-CN.md`：中文豪华说明书
 - `README.en.md`：English version
+- `LICENSE.md`：自定义非商业许可
 - `skills/cyber-emperor/SKILL.md`：技能主文档
 - `skills/cyber-emperor/README.md`：skill 简介与补充
 
@@ -272,6 +273,10 @@
 - 对外展示使用公开身份，不泄露不必要个人信息
 
 ---
+
+## 协议说明
+
+本仓库采用 **Custom Non-Commercial License（自定义非商业许可）**。你可以出于个人、学习、研究及其他非商业目的查看、学习、复制与修改本仓库内容。**任何商业使用、商业分发，以及在收费产品或服务中的使用，均须事先取得书面授权。** 详见 [LICENSE.md](./LICENSE.md)。
 
 ## 下一步还能继续扩什么？
 

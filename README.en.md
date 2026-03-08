@@ -59,6 +59,10 @@ This is a public repository and must not contain any secrets, tokens, passwords,
 
 Share methods, not keys.
 
+## License
+
+This repository is released under a **Custom Non-Commercial License**. You may view, study, copy, and modify the contents for personal, educational, research, and other non-commercial purposes. **Commercial use, commercial distribution, and use in paid products or services require prior written authorization.** See [LICENSE.md](./LICENSE.md).
+
 ## Next Steps
 
 You can expand this repository into a broader public skill collection with:
