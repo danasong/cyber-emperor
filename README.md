@@ -12,10 +12,17 @@ A practical OpenClaw skill for orchestrating complex work with a "Three Departme
 
 ## Highlights / 特点
 
+- Three-layer governance and execution model / 三层治理与执行模型
+
 - Governance-first multi-agent orchestration / 先治理、后并行的多 Agent 编排
 - Works with `sessions_spawn`, `shadow-clone`, and `claude-code-hook`
 - Practical templates, delivery rules, and execution boundaries
 - 适合中大型任务、跨模块协作、复杂编码与统一验收
+
+
+## Architecture / 架构图
+
+- Architecture doc / 架构文档: [docs/architecture.md](./docs/architecture.md)
 
 ## Publishing Rule / 发布铁律
 
